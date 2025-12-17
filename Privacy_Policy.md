@@ -108,3 +108,152 @@ Es werden angemessene technische und organisatorische Maßnahmen eingesetzt, um 
 ## 9. Änderungen dieser Datenschutzerklärung
 Diese Datenschutzerklärung kann angepasst werden.  
 Über wesentliche Änderungen wird innerhalb der App informiert.
+
+
+
+# Terms of Use (AGB) – TATL
+
+Last updated: December 15, 2025
+
+## 1. Scope
+These Terms of Use govern the use of the mobile application  
+**TATL – Is it worth it?** (hereinafter referred to as the “App”).
+
+The provider of the App is:
+
+**ELMotion by Emanuel Roider**  
+Email: tronotales@gmail.com
+
+By using the App, you agree to these Terms of Use.
+
+---
+
+## 2. Purpose of the App
+TATL is designed to support couples in making a reflective decision about whether a potential conflict should be addressed.
+
+The App does **not** provide psychological, therapeutic, or medical advice and does not replace professional support.
+
+---
+
+## 3. Registration and Use
+- Use of the App requires registration.
+- Users agree to provide truthful information.
+- Login credentials must not be shared with third parties.
+
+---
+
+## 4. Content and Responsibility
+- All content entered into the App (e.g. conflict descriptions, ratings, time data) is the sole responsibility of the users.
+- The provider assumes no responsibility for decisions made or consequences arising from the use of the App.
+
+---
+
+## 5. Availability
+There is no entitlement to uninterrupted or continuous availability of the App.  
+Maintenance, updates, or technical issues may result in temporary limitations.
+
+---
+
+## 6. Limitation of Liability
+The provider is only liable in cases of intent or gross negligence.  
+Liability for indirect damages, in particular emotional, personal, or interpersonal consequences, is excluded.
+
+---
+
+## 7. Termination of Use
+Users may stop using the App at any time.  
+The provider reserves the right to suspend or delete user accounts in cases of misuse or violations of these Terms of Use.
+
+---
+
+## 8. Changes to the Terms of Use
+The provider reserves the right to modify these Terms of Use.  
+Users will be informed of material changes within the App.
+
+---
+
+## 9. Governing Law
+These Terms of Use are governed by the laws of the **Republic of Austria**.
+
+---
+
+## 10. Contact
+For questions regarding these Terms of Use:  
+Email: tronotales@gmail.com
+
+---
+
+# Privacy Policy – TATL
+
+Last updated: December 15, 2025
+
+## 1. Data Controller
+The entity responsible for data processing is:
+
+**ELMotion by Emanuel Roider**  
+Email: tronotales@gmail.com
+
+---
+
+## 2. Data Collected
+The App processes only data that is necessary for its operation:
+
+- User ID (Firebase Authentication)
+- Content entered within the App (e.g. conflicts, categories, time data)
+- Technical metadata (e.g. timestamps)
+
+No location data, contacts, health data, or advertising data are collected.
+
+---
+
+## 3. Purpose of Data Processing
+Data is processed for the purpose of:
+- operating and maintaining the functionality of the App
+- synchronizing data between connected users (couples)
+- ensuring App security
+
+---
+
+## 4. Firebase / Google
+The App uses **Firebase** (Google LLC) for:
+- user authentication
+- Cloud Firestore (data storage)
+- Firebase App Check (abuse prevention)
+
+Data is processed on Google servers.  
+More information about Firebase privacy can be found at:  
+https://firebase.google.com/support/privacy
+
+---
+
+## 5. Data Retention and Deletion
+- Data is stored only as long as necessary for using the App.
+- Users may delete their data at any time by deleting their account or by contacting the provider.
+
+---
+
+## 6. Data Sharing
+No personal data is shared with third parties for advertising, analytics, or marketing purposes.
+
+---
+
+## 7. User Rights
+Users have the right at any time to:
+- access their stored data
+- correct inaccurate data
+- delete their data
+- restrict processing
+
+Requests can be submitted via email:  
+Email: tronotales@gmail.com
+
+---
+
+## 8. Data Security
+Appropriate technical and organizational measures are implemented to protect data against unauthorized access, loss, or misuse.
+
+---
+
+## 9. Changes to This Privacy Policy
+This Privacy Policy may be updated.  
+Users will be informed of material changes within the App.
